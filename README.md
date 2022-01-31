@@ -31,3 +31,4 @@ https://wallace-nascimento.github.io/Site-plugin/
 -O site é 100% responsivo e abre em todos os tamanhos de telas disponíveis no mercado. <br />
 -O slider do site foi desenvolvido usando o plugin slick, com ele é possível otimizar o tempo de desenvolvimento. <br />
 -No menu mobile foi usado a biblioteca do jQuery. <br />
+-O menu foi feito com o método de scroll do jQuery, quando um item do menu é clicado a scroll desce até a posição do elemento.
